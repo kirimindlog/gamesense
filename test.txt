@@ -1,1 +1,1 @@
-test
+print("Code Load Sussefly!")
